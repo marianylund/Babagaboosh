@@ -2,3 +2,6 @@
 /.vscode
 __pycache__
 ChatHistoryBackup.txt
+.env
+data
+storage

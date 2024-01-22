@@ -10,3 +10,12 @@ pygame-ce==2.4.0
 rich==13.7.0
 soundfile==0.12.1
 tiktoken==0.5.1
+python-dotenv==1.0.0
+azure.cognitiveservices.speech
+gTTS
+pydub
+pygame
+pygame_ce
+
+pypdf
+llama_index
